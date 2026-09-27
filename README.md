@@ -3,11 +3,11 @@ All the assignments of week 1, AI_ML training
 
 ## Assignment List
 
-| # | Assignment | Folder | Essentials |
-|---|------------|--------|------------|
-| 1 | Weather accesser (Assignment_1) |       |Google-GenAI SDK, OpenWeatherMap API|
-| 2 | Strands travel planner |       | Strands Agents SDK, Groq via OpenAIModel |
-| 3 | Planner_chatbot |         | Strands Agents, Gradio |
+| # | Assignment | Essentials |
+|---|------------|------------|
+| 1 | Weather accesser (Assignment_1) |Google-GenAI SDK, OpenWeatherMap API|
+| 2 | Strands travel planner | Strands Agents SDK, Groq via OpenAIModel |
+| 3 | Planner_chatbot | Strands Agents, Gradio |
 
 ## Installation
 
@@ -36,9 +36,15 @@ GenAI_Assignments_week_1/
 │
 ├── README.md
 ├── Assignment_1/
+    |__ README.md
+    |__ Assignment 1.ipynb
 ├── Assignment_2/
+    |__ README.md
+    |__ 1 day travel planner.ipynb
 ├── Assignment_3/
-└── ...
+    |__ README.md
+    |__ chatbot.py
+    |__ _pycache_
 ```
 
 - `README.md` – Repository overview and instructions.
